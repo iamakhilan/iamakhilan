@@ -1,44 +1,20 @@
-## About Me
+<h1 align="center">Hi 👋, I'm Akhilam</h1>
+<h3 align="center">B.Tech CSE (AI) Student</h3>
 
-I'm a Computer Science & AI student at Amrita Vishwa Vidyapeetham, building a strong foundation in programming, UI/UX design, and artificial intelligence. I'm passionate about applying creativity to practical projects and learning by doing.
+- 🌱 I’m currently learning **Python, Machine Learning & AI**
 
-Currently pursuing my B.Tech in Computer Science & Engineering with a specialization in Artificial Intelligence (2024 – Present).
+- 📫 How to reach me **akhilan1010@gmail.com**
 
-## Current Focus
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamakhilan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamakhilan/" height="30" width="40" /></a>
+</p>
 
-- Strengthening my Python skills through hands-on practice
-- Exploring AI applications in real-world scenarios
-- Learning the fundamentals of user experience and interface design
-- Building projects that solve campus and everyday problems
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamakhilan&show_icons=true&locale=en&layout=compact" alt="iamakhilan" /></p>
 
-**Programming & Tools**
-- Python (learning through practice)
-- Git and GitHub (version control, branching, collaboration)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamakhilan&show_icons=true&locale=en" alt="iamakhilan" /></p>
 
-**Design & UX**
-- Figma and Canva for UI layouts and prototypes
-- Visual design and interface fundamentals
-- Usability, spacing, and accessibility principles
-
-## Projects
-
-### UniBot – Campus Chatbot
-A chatbot designed to help students with campus-related queries.
-- Created UI workflows and screen layouts using Figma
-- Planned Q&A structure for admissions and hostel information
-
-### Vehicle Health Prediction using Agentic AI
-An exploratory project investigating AI-based vehicle diagnostics.
-- Currently under development as part of my coursework
-- Learning about AI agents and predictive modeling
-
-## Goals
-
-I'm focused on building a solid technical foundation and learning through real projects. My goal is to gain practical experience in software development and AI while contributing to meaningful solutions.
-
-## Contact
-
-📧 Email: akhilan1010@gmail.com  
-💼 LinkedIn: [linkedin.com/akhilan](https://linkedin.com/akhilan)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamakhilan&" alt="iamakhilan" /></p>
