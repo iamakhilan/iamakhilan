@@ -34,10 +34,6 @@ An exploratory project investigating AI-based vehicle diagnostics.
 - Currently under development as part of my coursework
 - Learning about AI agents and predictive modeling
 
-## Goals
-
-I'm focused on building a solid technical foundation and learning through real projects. My goal is to gain practical experience in software development and AI while contributing to meaningful solutions.
-
 ## Contact
 
 📧 Email: akhilan1010@gmail.com  
